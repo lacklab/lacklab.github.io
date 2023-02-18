@@ -1,8 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
-title: cv
-nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
+permalink: /team/nathan/cv/
+title: CV
+nav: false
+cv_pdf: NL_academic_CV.pdf
 ---

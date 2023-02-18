@@ -6,6 +6,7 @@
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
+  font-family: 'Hanken Grotesk', sans-serif;
 }
 
 hr {
@@ -275,11 +276,11 @@ blockquote {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-size: 0.6rem;
   .container {
     color: var(--global-footer-text-color);
-    padding-top: 9px;
-    padding-bottom: 8px;
+    padding-top: 7px;
+    padding-bottom: 6px;
   }
   a {
     color: var(--global-footer-link-color);
@@ -724,3 +725,15 @@ progress {
      display: block;
      height: inherit;
  }
+
+.post-title {
+  font-size: 60px;
+  font-weight: 500;
+  line-height: 0.8;
+}
+
+.post-subtitle {
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 1.1;
+}

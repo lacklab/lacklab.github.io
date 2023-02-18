@@ -5,10 +5,20 @@ layout: default
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
-          <h1 class="post-title">
-           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
-          </h1>
-          <p class="desc">{{ page.subtitle }}</p>
+          <div class="row align-items-center">
+            <div class="col-sm-4">
+              {% include figure.html path="assets/img/logo.png" class="img-fluid rounded" %}
+              <!-- <img src="/lacklab-redesign/assets/img/logo.png" alt="Lack Lab logo" height="300" style="padding: 25px 25px;"> -->
+            </div>
+            <div class="col-sm-8">
+              <h1 class="post-title">
+                <span>{{ site.title | upcase }}</span>
+              </h1>
+              <h2 class="post-subtitle">
+                {{ page.subtitle | upcase }}
+              </h2>
+            </div>
+          </div>
         </header>
 
         <article>
@@ -42,13 +52,13 @@ layout: default
 
           <!-- News -->
           {% if page.news -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
             {%- include news.html %}
           {%- endif %}
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
 

@@ -17,6 +17,7 @@
                 {{- site.last_name -}}
               {%- endif -%}
             {%- else -%}
+              <img src="/lacklab-redesign/assets/img/old_logo.png" alt="Lack Lab logo" height="40" style="padding-right: 10%;">
               {{- site.title -}}
             {%- endif -%}
           </a>
@@ -43,7 +44,7 @@
                 {% endif %}
               {% endfor %}
 
-              <!-- About -->
+              <!-- About 
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
                   {%- if page.permalink == '/' -%}
@@ -51,6 +52,7 @@
                   {%- endif -%}
                 </a>
               </li>
+              -->
               {% if site.blog_nav_title %}
               <!-- Blog -->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">

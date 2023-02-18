@@ -1,34 +1,47 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Altintas":
+  - firstname: ["Umut Berkay", "U. B."]
+    url: https://lacklab.ku.edu.tr/people/berkay.html
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Cavga":
+  - firstname: ["Ayse Derya"]
+    url: a
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Morova":
+  - firstname: ["Tunc", "T."]
+    url: https://lacklab.ku.edu.tr/people/tunc.html
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Huang":
+  - firstname: ["Chia-Chi Flora", "Chia-Chi F", "C. C. F."]
+    url: https://lacklab.ku.edu.tr/people/flora.html
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Kaya":
+  - firstname: ["Zeynep"]
+    url: a
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Lingadahalli":
+  - firstname: ["Shreyas", "S."]
+    url: https://lacklab.ku.edu.tr/people/shreyas.html
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Ozgun":
+  - firstname: ["Fatma"]
+    url: a
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Ozturan":
+  - firstname: ["Dogancan", "D."]
+    url: https://lacklab.ku.edu.tr/people/dogancan.html
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Sarac":
+  - firstname: ["Hilal"]
+    url: a
+
+"Seref":
+  - firstname: ["Ceren", "C."]
+    url: a
+
+"Tekoglu":
+  - firstname: ["Emirhan", "E."]
+    url: https://lacklab.ku.edu.tr/people/emir.html
+
+"Uyulur":
+  - firstname: ["Firat", "F."]
+    url: a

@@ -2,82 +2,64 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Nathan Lack
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Philosophy in Pharmacology with Professor Edith Sim
+      institution: University of Oxford
+      year: 2005 - 2009
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Identified, expressed and characterized a hydrolytic enzyme involved in cholesterol metabolism as a novel drug target against <em>Mycobacterium tuberculosis.</em>
+        - Received the Natural Science and Engineering Research Council of Canada Postgraduate Scholarship
+    - title: Bachelor of Science, Microbiology and Immunology
+      institution: University of British Columbia
+      year: 1999 - 2004
       description:
-        - Description 1.
-        - Description 2.
+        - Conducted research with Professor Wilf Jefferies to characterize TAP-dependent antigen presentation in cancerous cells.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Senior Research Scientist
+      institution: Vancouver Prostate Centre, Vancouver, Canada
+      year: 2017 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Assistant Professor in Faculty of Medicine at the University of British Columbia
+        - Co-director of the VPC Drug Design and Pharmacology core
+        - Research program focused on study characterizing androgen receptor and HOXB13 mechanism of action in aggressive prostate cancer
+        - Characterized epigenetic modifying enzymes as a mechanism of therapeutic resistance
+
+    - title: Assistant/Associate Professor
+      institution: Koc University School of Medicine, Istanbul, Turkey
+      year: 2011 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Founded an androgen receptor laboratory at one of the leading university in Turkey with a focus on developing innovative functional genomic techniques to study prostate cancer.
+        - Developed the undergraduate molecular biology and biochemistry education program.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Postdoctoral Fellow with Professors Paul Rennie, Art Cherkasov and Emma Guns
+      institution: Vancouver Prostate Centre, Vancouver, Canada
+      year: 2009 - 2011
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Identified and characterized novel androgen receptor inhibitors using in silico screening combined with biochemical and cell-based high-throughput assays.
+        - Awarded the Michael Smith Foundation for Health Research Postdoctoral Fellowship.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
+      items:
+        - Turkish Science Academy - Young Scientist Award
+    - year: 2016
+      items:
+        - TUBA-GEBIP Award
+    - year: 2011
+      items:
+        - VCHRI Rising Star Scientific Award
+    - year: 2010
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Lorne Sullivan - Best Basic Science Research Award
 
 - title: Academic Interests
   type: nested_list
