@@ -407,16 +407,6 @@ footer.sticky-bottom {
 }
 
 
-// Distill
-
-.distill {
-  a:hover {
-    border-bottom-color: var(--global-theme-color);
-    text-decoration: none;
-  }
-}
-
-
 // Projects
 
 .projects {
@@ -663,6 +653,34 @@ html.transition *:after {
       }
     }
   }
+  .post-title {
+    font-size: 4rem;
+    font-weight: 500;
+    line-height: 0.8;
+  }
+  
+  .post-subtitle {
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.1;
+  }
+  .post-content{
+    blockquote {
+      border-left: 5px solid var(--global-theme-color);
+      padding: 8px;
+    }
+  }
+}
+
+.news-post{
+  .post-title {
+    font-size: 2.5rem;
+  }
+  .post-meta{
+    color: var(--global-text-color-light);
+    font-size: 0.875rem;
+    margin-bottom: 0;
+  }
   .post-content{
     blockquote {
       border-left: 5px solid var(--global-theme-color);
@@ -725,15 +743,3 @@ progress {
      display: block;
      height: inherit;
  }
-
-.post-title {
-  font-size: 3rem;
-  font-weight: 500;
-  line-height: 1.1;
-}
-
-.post-subtitle {
-  font-size: 2rem;
-  font-weight: 500;
-  line-height: 1.1;
-}
