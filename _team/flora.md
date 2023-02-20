@@ -1,6 +1,6 @@
 ---
 name: Flora Huang, PhD
-position: postdoc
+position: researchasst
 avatar: flora.png
 mail: fhuang at prostatecentre.com
 joined: 2019
