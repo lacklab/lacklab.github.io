@@ -7,6 +7,5 @@ joined: 2021
 ---
 
 <p>
-I graduated from Istanbul Bilgi University with a Genetics and Bioengineering degree in 2015. I did a summer research at Marine Biological Laboratory in 2014 studying microbial ecology. I joined Lack Lab in April 2016 as a PhD student in Biomedical Sciences and Engineering program and graduated in December 2021. Currently, I am a postdoctoral researcher in Lack Lab and Collins Lab in Vancouver Prostate Centre.
-I’m working on the genome organization of prostate cancer and trying to understand the underlying mechanisms of AR-driven transcription. I am using 3C-based technologies as well as large-scale the CRISPR screens. 
+In 2015, I earned my Genetics and Bioengineering degree from Istanbul Bilgi University. Before that, I spent the summer of 2014 at the Marine Biological Laboratory conducting research on microbial ecology. I then became a PhD student at Lack Lab in April 2016, where I received my doctoral degree in Biomedical Sciences and Engineering in December 2021. Now, I work as a postdoctoral researcher for both Lack Lab and Collins Lab at the Vancouver Prostate Centre. My main focus is understanding the genome organization of prostate cancer and how AR-driven transcription works. To do this, I use a combination of 3C-based technologies and large CRISPR screens.
 </p>
