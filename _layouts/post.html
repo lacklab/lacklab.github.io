@@ -21,6 +21,10 @@ layout: default
     <br>
   </header>
 
+  <article class="post-content">
+    {{ content }}
+  </article>
+
   <div class="post-nav">
     <div>
       {% if page.previous.url %}
@@ -48,9 +52,4 @@ layout: default
       {% endif %}
     </div>
   </div>
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-
 </div>
