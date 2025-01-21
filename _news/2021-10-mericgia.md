@@ -4,4 +4,4 @@ date: 2021-10-21 07:59:00-0400
 inline: false
 ---
 
-{% include figure.html path="assets/img/mericgia.jpg" class="img-fluid rounded z-depth-1 mx-auto d-block" width="50%" %}
+{% include figure.liquid path="assets/img/mericgia.jpg" class="img-fluid rounded z-depth-1 mx-auto d-block" width="50%" %}

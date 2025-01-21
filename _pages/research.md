@@ -13,12 +13,12 @@ nav_order: 2
         </p>
     </div>
     <div class="col-sm-4">
-        {% include figure.html path="assets/img/AR.jpg" class="img-fluid rounded" zoomable=true %}
+        {% include figure.liquid path="assets/img/AR.jpg" class="img-fluid rounded" zoomable=true %}
     </div>
 </div>
 
 <h3>Development of new Functional Genomic Techniques to study AR</h3>
-{% include figure.html path="assets/img/AR-ChIP.png" class="img-fluid rounded mt-2" zoomable=true %}
+{% include figure.liquid path="assets/img/AR-ChIP.png" class="img-fluid rounded mt-2" zoomable=true %}
 <p>Following activation, the AR translocates from the cytoplasm to the nucleus where it binds to several thousand chromosomal sites. The vast majority of these sites act as cis-regulatory enhancers and can interact with specific distal promoters via chromatin looping which subsequently induces gene transcription. This not a simple process and multiple enhancers can potentially interact with the same promoter. With such complexity it is extremely challenging to understand how one AR binding site can impact transcription of a specific gene. Therefore, we are working to develop novel functional genomic techniques using CRISPR/Cas9 to characterize the role of specific AR binding sites. In addition to these approaches, we are also characterizing publicly available whole genome sequencing data to better understand how specific enhancers impact gene transcription. 
 </p>
 
@@ -32,7 +32,7 @@ Inhibiting AR-mediated transcription is one of the most effective treatments aga
         </p>
     </div>
     <div class="col-sm-3">
-        {% include figure.html path="assets/img/AR_BF3.png" class="img-fluid rounded mt-2" zoomable=true %}
+        {% include figure.liquid path="assets/img/AR_BF3.png" class="img-fluid rounded mt-2" zoomable=true %}
     </div>
 </div>
 
@@ -43,6 +43,6 @@ Inhibiting AR-mediated transcription is one of the most effective treatments aga
         </p>
     </div>
     <div class="col-sm-4">
-        {% include figure.html path="assets/img/kdm.jpg" class="img-fluid rounded mt-2" zoomable=true %}
+        {% include figure.liquid path="assets/img/kdm.jpg" class="img-fluid rounded mt-2" zoomable=true %}
     </div>
 </div>

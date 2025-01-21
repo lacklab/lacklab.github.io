@@ -1,47 +1,47 @@
-"Altintas":
+"altintas":
   - firstname: ["Umut Berkay", "U. B."]
-    url: https://lacklab.ku.edu.tr/people/berkay.html
+    url: https://lacklab.ku.edu.tr/team/berkay
 
-"Cavga":
+"cavga":
   - firstname: ["Ayse Derya"]
-    url: a
+    url: \#
 
-"Morova":
+"morova":
   - firstname: ["Tunc", "T."]
-    url: https://lacklab.ku.edu.tr/people/tunc.html
+    url: https://lacklab.ku.edu.tr/team/tunc
 
-"Huang":
+"huang":
   - firstname: ["Chia-Chi Flora", "Chia-Chi F", "C. C. F."]
-    url: https://lacklab.ku.edu.tr/people/flora.html
+    url: https://lacklab.ku.edu.tr/team/flora
 
-"Kaya":
+"kaya":
   - firstname: ["Zeynep"]
-    url: a
+    url: \#
 
-"Lingadahalli":
+"lingadahalli":
   - firstname: ["Shreyas", "S."]
-    url: https://lacklab.ku.edu.tr/people/shreyas.html
+    url: https://lacklab.ku.edu.tr/team/shreyas
 
-"Ozgun":
+"ozgun":
   - firstname: ["Fatma"]
-    url: a
+    url: \#
 
-"Ozturan":
+"ozturan":
   - firstname: ["Dogancan", "D."]
-    url: https://lacklab.ku.edu.tr/people/dogancan.html
+    url: https://lacklab.ku.edu.tr/team/dogancan
 
-"Sarac":
+"sarac":
   - firstname: ["Hilal"]
-    url: a
+    url: \#
 
-"Seref":
+"seref":
   - firstname: ["Ceren", "C."]
-    url: a
+    url: \#
 
-"Tekoglu":
-  - firstname: ["Emirhan", "E."]
-    url: https://lacklab.ku.edu.tr/people/emir.html
+"tekoglu":
+  - firstname: ["Emirhan", "E.", "T. E.", "Tahsin Emirhan"]
+    url: https://lacklab.ku.edu.tr/team/emir
 
-"Uyulur":
+"uyulur":
   - firstname: ["Firat", "F."]
-    url: a
+    url: \#

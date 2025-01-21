@@ -6,4 +6,4 @@ inline: false
 
 Hilal Saraç attended Prof. Dr. Chris J. Schofield's group in University of Oxford for six months as a guest researcher
 
-{% include figure.html path="assets/img/hilaloxford.jpg" class="img-fluid rounded z-depth-1 mx-auto d-block" width="100%" %}
+{% include figure.liquid path="assets/img/hilaloxford.jpg" class="img-fluid rounded z-depth-1 mx-auto d-block" width="100%" %}

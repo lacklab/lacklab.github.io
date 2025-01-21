@@ -6,5 +6,5 @@ inline: false
 
 Our Laboratory outing at Deep Cove. Many thanks Flora Huang for the excellent idea.
 
-{% include figure.html path="assets/img/deepcove1.jpeg" class="img-fluid rounded z-depth-1 mx-auto d-block" width="100%" %}
-{% include figure.html path="assets/img/deepcove2.jpeg" class="img-fluid rounded z-depth-1 mx-auto d-block" width="100%" %}
+{% include figure.liquid path="assets/img/deepcove1.jpeg" class="img-fluid rounded z-depth-1 mx-auto d-block" width="100%" %}
+{% include figure.liquid path="assets/img/deepcove2.jpeg" class="img-fluid rounded z-depth-1 mx-auto d-block" width="100%" %}

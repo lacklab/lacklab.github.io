@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<!-- team.html -->
+        <div class="post">
+
+          <header class="post-header">
+            <h2 class="post-title">{{ page.name }}</h1>
+            <p class="post-description">{{ page.description }}</p>
+          </header>
+
+          <article>
+            {% assign profile_image_path = page.avatar | prepend: 'assets/img/team/' %}
+
+            <div class="float-md-left">
+              {% include figure.liquid path=profile_image_path class="img-fluid rounded z-depth-1 profile-image" %}
+              {% if page.mail %}
+              {% if page.mail[0] %}
+              {% for mail in page.mail %}
+              <i class="fas fa-envelope m-2"></i>{{ mail }}<br>
+              {% endfor %}
+              {% else %}
+              <i class="fas fa-envelope m-2"></i>{{ page.mail }}
+              {% endif %}
+              {% endif %}
+            </div>
+            
+            {{ content }}
+          </article>
+
+        </div>
