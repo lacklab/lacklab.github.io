@@ -6,13 +6,33 @@
   - firstname: ["Ayse Derya"]
     url: \#
 
+"dikbas":
+  - firstname: ["Ugur Meric"]
+    url: \#
+
+"ersoy":
+  - firstname: ["Betul", "Betül"]
+    url: \#
+
+"fazlioglu":
+  - firstname: ["Betul", "Betul Ersoy"]
+    url: \#
+
 "morova":
-  - firstname: ["Tunc", "T."]
+  - firstname: ["Tunc", "T.", "Tunç"]
     url: https://lacklab.ku.edu.tr/team/tunc
 
 "huang":
   - firstname: ["Chia-Chi Flora", "Chia-Chi F", "C. C. F."]
     url: https://lacklab.ku.edu.tr/team/flora
+
+"gatfar":
+  - firstname: ["Ugur", "Uğur"]
+    url: \#
+
+"gokbayrak":
+  - firstname: ["Bengul"]
+    url: \#
 
 "kaya":
   - firstname: ["Zeynep"]
@@ -44,4 +64,20 @@
 
 "uyulur":
   - firstname: ["Firat", "F."]
+    url: \#
+
+"xiao":
+  - firstname: ["Kevin"]
+    url: \#
+
+"yapici":
+  - firstname: ["Elif"]
+    url: \#
+
+"yavuz":
+  - firstname: ["Kerim"]
+    url: \#
+
+"yu":
+  - firstname: ["Ivan", "Pak Lok Ivan", "Ivan Pak Lok"]
     url: \#
