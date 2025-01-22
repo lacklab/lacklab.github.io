@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Ivan for his beautiful talk at the VPC/Terry Fox Seminar Series.
+title: Congratulations to Ivan for his excellent talk at the VPC/Terry Fox Seminar Series.
 date: 2023-01-06 07:59:00-0400
 inline: false
 ---

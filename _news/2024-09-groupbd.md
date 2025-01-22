@@ -1,5 +1,5 @@
 ---
-title: Happy Birthday to Rosie, Flora, Emir, and Meric! We had a wonderful hotpot dinner together in Happy Lamb
+title: Happy Birthday to Rosie, Flora, Emir, and Meric! We had a wonderful hotpot dinner together at Happy Lamb
 date: 2024-09-02 07:59:00-0400
 inline: false
 ---

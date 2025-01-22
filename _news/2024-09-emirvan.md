@@ -1,5 +1,5 @@
 ---
-title: Emir visited his wet lab colleagues in Vancouver!
+title: Emir visits his wet lab colleagues in Vancouver!
 date: 2024-09-01 07:59:00-0400
 inline: false
 ---

@@ -1,5 +1,5 @@
 ---
-name: Daniel
+name: Daniel Robinson
 position: undergrad
 avatar: daniel.jpg
 mail: 

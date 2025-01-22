@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Rosie and James on completing their Co-Op and starting their internships!
+title: Congratulations to Rosie and James on completing their coop and starting their internships!
 date: 2024-08-01 07:59:00-0400
 inline: false
 ---
