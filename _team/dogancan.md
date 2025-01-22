@@ -1,9 +1,13 @@
 ---
 name: Doğancan Özturan, PhD
-position: postdoc
+position: alumni
 avatar: dogancan.jpg
 mail: dozturan at prostatecentre.com
 joined: 2021
+
+old_role: Postdoctoral Researcher
+new_role: Postdoctoral Researcher, de Boer Lab
+left: 2023
 ---
 
 <p>
