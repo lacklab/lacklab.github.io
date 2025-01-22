@@ -44,112 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "news-anıl-kaplan-joined-churchill-lab-for-a-six-month-intership",
-          title: 'Anıl Kaplan joined Churchill Lab for a six month intership',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2014-09-anilox/";
-            },},{id: "news-we-had-the-opportunity-to-present-at-the-3rd-intl-congress-of-the-mol-bio-association-of-turkey",
-          title: 'We had the opportunity to present at the 3rd Intl. Congress of the...',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2014-09-izmir/";
-            },},{id: "news-hilal-saraç-attended-eacr-cancer-genomics-conference-with-a-travel-award",
-          title: 'Hilal Saraç attended EACR Cancer Genomics conference with a travel award.',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2015-06-hilaleacr/";
-            },},{id: "news-uğur-gatfar-msc-graduated",
-          title: 'Uğur Gatfar (MSc) graduated',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2015-08-ugurmsc/";
-            },},{id: "news-nathan-passed-his-docentlik-associate-professorship-exam",
-          title: 'Nathan passed his Docentlik/Associate Professorship exam!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2015-09-docent/";
-            },},{id: "news-hilal-saraç-attended-university-of-oxford-for-six-months-as-a-guest-researcher",
-          title: 'Hilal Saraç attended University of Oxford for six months as a guest researcher...',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2016-04-hilaloxford/";
-            },},{id: "news-the-lack-lab-observing-a-radical-prostatectomy-at-koç-university-hospital",
-          title: 'The Lack Lab observing a radical prostatectomy at Koç University Hospital',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2016-05-rp/";
-            },},{id: "news-zeynep-kaya-msc-graduated",
-          title: 'Zeynep Kaya (MSc) graduated!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2016-06-zeynepmsc/";
-            },},{id: "news-nathan-was-awarded-the-tuba-gebip-award-as-one-of-the-top-young-scientists-in-turkey",
-          title: 'Nathan was awarded the TUBA-GEBIP award as one of the top young scientists...',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2017-02-tubagebip/";
-            },},{id: "news-lack-lab-2017",
-          title: 'Lack Lab 2017!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2017-03-groupphoto/";
-            },},{id: "news-the-lack-lab-dinner",
-          title: 'The Lack Lab dinner',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2017-04-dinner/";
-            },},{id: "news-the-lack-lab-lynn-valley-trip",
-          title: 'The Lack Lab Lynn Valley trip',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2018-08-valley/";
-            },},{id: "news-hilal-saraç-phd-graduated",
-          title: 'Hilal Saraç (PhD) graduated!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2018-09-hilalphd/";
-            },},{id: "news-fatma-özgün-phd-graduated",
-          title: 'Fatma Özgün (PhD) graduated!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2018-09-fatmaphd/";
-            },},{id: "news-the-lack-lab-at-brunch-missing-one-person-though",
-          title: 'The Lack Lab at brunch -- missing one person though',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2018-09-brunch/";
-            },},{id: "news-nathan-won-the-early-career-poster-award-at-the-2019-pacrim-meeting",
-          title: 'Nathan won the Early Career Poster Award at the 2019 PacRim meeting',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2019-03-pacrim/";
-            },},{id: "news-we-organized-the-chemical-epigenetics-minisymposium-with-tugba-amp-tamer-onder-labs",
-          title: 'We organized the Chemical Epigenetics Minisymposium with Tugba &amp;amp; Tamer Onder labs.',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2019-03-minisymposium/";
-            },},{id: "news-doğancan-attended-the-aacr-annual-meeting-with-a-global-scholar-in-training-scholarship",
-          title: 'Doğancan attended the AACR Annual Meeting with a Global Scholar-In-Training Scholarship!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2019-03-aacrdogancan/";
-            },},{id: "news-we-went-out-to-deep-cove-for-kayaking",
-          title: 'We went out to Deep Cove for kayaking!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2019-08-deepcove/";
-            },},{id: "news-going-away-lunch-for-erinç-barçın-and-mukadder-ezel-yılmaz",
-          title: 'Going away lunch for Erinç Barçın and Mukadder Ezel Yılmaz',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2019-08-lunch/";
-            },},{id: "news-shreyas-was-awarded-the-pcfbc-39-s-grant-in-aid-award",
-          title: 'Shreyas was awarded the PCFBC&amp;#39;s Grant-in-Aid award!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2019-09-shreyasgia/";
-            },},{id: "news-first-post-covid-in-person-lab-meeting-in-istanbul",
+        },{id: "news-first-post-covid-in-person-lab-meeting-in-istanbul",
           title: 'First post COVID in-person lab meeting in Istanbul.',
           description: "",
           section: "News",handler: () => {
@@ -234,8 +129,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2022-12-mericcomp/";
-            },},{id: "news-congratulations-to-ivan-for-his-beautiful-talk-at-the-vpc-terry-fox-seminar-series",
-          title: 'Congratulations to Ivan for his beautiful talk at the VPC/Terry Fox Seminar Series....',
+            },},{id: "news-congratulations-to-ivan-for-his-excellent-talk-at-the-vpc-terry-fox-seminar-series",
+          title: 'Congratulations to Ivan for his excellent talk at the VPC/Terry Fox Seminar Series....',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2023-01-ivanterryfox/";
@@ -264,8 +159,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2023-03-berkaybig23/";
-            },},{id: "news-congratulations-to-emir-for-earning-the-2nd-best-presentation-award-in-the-kuttam-grc",
-          title: 'Congratulations to Emir for earning the 2nd Best Presentation Award in the KUTTAM...',
+            },},{id: "news-congratulations-to-emir-for-earning-the-2nd-best-presentation-award-at-the-kuttam-grc",
+          title: 'Congratulations to Emir for earning the 2nd Best Presentation Award at the KUTTAM...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2023-04-emirgrc/";
@@ -409,17 +304,17 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-06-mericterryfox/";
-            },},{id: "news-congratulations-to-rosie-and-james-on-completing-their-co-op-and-starting-their-internships",
-          title: 'Congratulations to Rosie and James on completing their Co-Op and starting their internships!...',
+            },},{id: "news-congratulations-to-rosie-and-james-on-completing-their-coop-and-starting-their-internships",
+          title: 'Congratulations to Rosie and James on completing their coop and starting their internships!...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-08-coopendjr/";
-            },},{id: "news-emir-visited-his-wet-lab-colleagues-in-vancouver",
-          title: 'Emir visited his wet lab colleagues in Vancouver!',
+            },},{id: "news-emir-visits-his-wet-lab-colleagues-in-vancouver",
+          title: 'Emir visits his wet lab colleagues in Vancouver!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-09-emirvan/";
-            },},{id: "news-happy-birthday-to-rosie-flora-emir-and-meric-we-had-a-wonderful-hotpot-dinner-together-in-happy-lamb",
+            },},{id: "news-happy-birthday-to-rosie-flora-emir-and-meric-we-had-a-wonderful-hotpot-dinner-together-at-happy-lamb",
           title: 'Happy Birthday to Rosie, Flora, Emir, and Meric! We had a wonderful hotpot...',
           description: "",
           section: "News",handler: () => {
@@ -429,8 +324,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-09-florabd/";
-            },},{id: "news-happy-birthday-ivan-celebrated-with-a-dinner-at-sun-bo-kong-a-vegetarian-chinese-restaurant",
-          title: 'Happy Birthday, Ivan! Celebrated with a dinner at Sun Bo Kong, a vegetarian...',
+            },},{id: "news-happy-birthday-ivan-we-celebrated-with-a-dinner-at-sun-bo-kong-a-vegetarian-chinese-restaurant",
+          title: 'Happy Birthday, Ivan! We celebrated with a dinner at Sun Bo Kong, a...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-10-ivanbd/";
@@ -544,11 +439,6 @@ ninja.data = [{
           description: "",
           section: "Team",handler: () => {
               window.location.href = "/team/kerim/";
-            },},{id: "team-luisa",
-          title: 'Luisa',
-          description: "",
-          section: "Team",handler: () => {
-              window.location.href = "/team/luisa/";
             },},{id: "team-lynn",
           title: 'Lynn',
           description: "",
@@ -600,6 +490,13 @@ ninja.data = [{
           section: "Team",handler: () => {
               window.location.href = "/team/zeynep/";
             },},{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://lacklab.bsky.social", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
