@@ -218,7 +218,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Lack]
-  first_name: [Nathan, N., N. A., Nathan A., Nathan A]
+  first_name: [Nathan, N., N. A., Nathan A., Nathan A, N.A.]
   author_url: https://lacklab.ku.edu.tr/team/nathan/
 
   style: apa
