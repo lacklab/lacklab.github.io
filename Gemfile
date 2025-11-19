@@ -2,9 +2,6 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 
-#Encoding.default_external = Encoding::UTF_8
-#Encoding.default_internal = Encoding::UTF_8
-
 # Core plugins that directly affect site building
 group :jekyll_plugins do
     gem 'jekyll-email-protect'
@@ -32,7 +29,7 @@ group :other_plugins do
     gem 'httparty'
     gem 'observer'       # used by jekyll-scholar
     gem 'ostruct'        # used by jekyll-twitter-plugin
-    gem 'terser'         # used by jekyll-terser
+    # gem 'terser'         # used by jekyll-terser
     # gem 'unicode_utils' -- should be already installed by jekyll
     # gem 'webrick' -- should be already installed by jekyll
 end
