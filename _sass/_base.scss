@@ -197,10 +197,11 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
-  .address {
+  .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+
     p {
       display: inline-block;
       margin: 0;
@@ -208,10 +209,11 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-.profile.float-right{
+.profile.float-right {
   margin-left: 1rem;
 }
-.profile.float-left{
+
+.profile.float-left {
   margin-right: 1rem;
 }
 
@@ -220,7 +222,9 @@ ul.task-list input[type="checkbox"] {
     width: 30%;
 
     .address {
-      p { display: block; }
+      p {
+        display: block;
+      }
     }
   }
 }
@@ -250,15 +254,15 @@ ul.task-list input[type="checkbox"] {
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
-  
+
   a:not(.active) {
     color: var(--global-text-color);
   }
-  
+
   a:hover {
     color: var(--global-hover-color);
   }
-  
+
   .dropdown-divider {
     border-top: 1px solid var(--global-divider-color) !important;
   }
@@ -266,11 +270,11 @@ ul.task-list input[type="checkbox"] {
 
 .dropdown-item {
   color: var(--global-text-color);
-    
+
   &:hover {
-      color: var(--global-hover-color);
-      background-color: var(--global-bg-color);
-    }
+    color: var(--global-hover-color);
+    background-color: var(--global-bg-color);
+  }
 }
 
 .navbar.navbar-light {
@@ -279,26 +283,27 @@ ul.task-list input[type="checkbox"] {
       text-decoration: none;
     }
   }
-  
+
   .navbar-brand {
     color: var(--global-text-color);
   }
-  
+
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
-    
+
     &:hover {
       color: var(--global-hover-color);
     }
   }
-  
-  .navbar-nav .nav-item.active>.nav-link {
-      background-color: inherit;
-      font-weight: bolder;
-      color: var(--global-theme-color);
-      &:hover {
-        color: var(--global-hover-color);
-      }
+
+  .navbar-nav .nav-item.active > .nav-link {
+    background-color: inherit;
+    font-weight: bolder;
+    color: var(--global-theme-color);
+
+    &:hover {
+      color: var(--global-hover-color);
+    }
   }
 
   .navbar-brand.social {
@@ -904,20 +909,23 @@ html.transition *:after {
 }
 
 // Extra Markdown style (post Customization)
-.post{
-  .post-meta{
+.post {
+  .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
     margin-bottom: 0;
   }
-  .post-tags{
+
+  .post-tags {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
     padding-top: 0.25rem;
     padding-bottom: 1rem;
+
     a {
       color: var(--global-text-color-light);
       text-decoration: none;
+
       &:hover {
         color: var(--global-theme-color);
       }
@@ -1369,4 +1377,78 @@ ninja-keys::part(ninja-input-wrapper) {
 ::highlight(search) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
+}
+
+figure.cover {
+  display: inline-block;
+  text-align: center;
+  margin: 0.5rem; /* adjust as needed */
+
+  img {
+    vertical-align: bottom;
+  }
+
+  figcaption.abandoned {
+    font-family: monospace;
+    color: #23212d;
+    text-transform: uppercase;
+    background-color: #ee5f5b;
+  }
+
+  figcaption.finished,
+  figcaption.watched {
+    font-family: monospace;
+    color: #23212d;
+    text-transform: uppercase;
+    background-color: #62c462;
+  }
+
+  figcaption.interested {
+    font-family: monospace;
+    color: #23212d;
+    text-transform: uppercase;
+    background-color: #7691db;
+  }
+
+  figcaption.paused {
+    font-family: monospace;
+    color: #23212d;
+    text-transform: uppercase;
+    background-color: #bdac7e;
+  }
+
+  figcaption.queued {
+    font-family: monospace;
+    color: #23212d;
+    text-transform: uppercase;
+    background-color: #9e76b5;
+  }
+
+  figcaption.reading,
+  figcaption.watching {
+    font-family: monospace;
+    color: #23212d;
+    text-transform: uppercase;
+    background-color: #f89406;
+  }
+
+  figcaption.reread,
+  figcaption.rewatch {
+    font-family: monospace;
+    color: #23212d;
+    text-transform: uppercase;
+    background-color: #a6517d;
+  }
+
+  figcaption.uncategorized {
+    font-family: monospace;
+    color: #23212d;
+    text-transform: uppercase;
+    background-color: #b0abb3;
+  }
+
+  /* mouse over link */
+  a.cover-link:hover {
+    color: #23212d !important;
+  }
 }
