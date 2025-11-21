@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lacklab.github.io/sitemap.xml
+Sitemap: https://lacklab.org/sitemap.xml
