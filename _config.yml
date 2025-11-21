@@ -17,7 +17,7 @@ keywords: lack, lacklab, prostate, cancer  # add your own keywords or leave empt
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: old_logo.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://lacklab.github.io # the base hostname & protocol for your site (this is changed to "lacklab.ku.edu.tr" when publishing)
+url: https://lacklab.org # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 footer_enabled: false
 last_updated: true # set to true if you want to display last updated in the footer
