@@ -6,7 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-
 <h3 style="text-align: center">
 Our laboratory is based in two sites
 </h3>

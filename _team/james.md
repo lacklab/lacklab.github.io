@@ -2,7 +2,7 @@
 name: James Wong
 position: undergrad
 avatar: james.jpg
-mail: 
+mail:
 joined: 2024
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Ivan for passing his comprehensive exam and advancing to PhD candidacy! 
+title: Congratulations to Ivan for passing his comprehensive exam and advancing to PhD candidacy!
 date: 2023-01-25 07:59:00-0400
 inline: false
 ---

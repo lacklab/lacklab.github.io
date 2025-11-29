@@ -18,7 +18,11 @@ layout: default
 <div class="news-post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%B %Y" }}{%- if page.author -%} • {{ page.author }}{%- endif -%}{%- if page.meta -%} • {{ page.meta }}{%- endif -%}</p>
+    <p class="post-meta">
+      {{ page.date | date: '%B %Y' }}
+      {%- if page.author -%}• {{ page.author }}{%- endif -%}
+      {%- if page.meta -%}• {{ page.meta }}{%- endif -%}
+    </p>
     <br>
   </header>
 
@@ -51,24 +55,24 @@ layout: default
         <a href="{{page.previous.url}}">
           <span class="unsighted">Previous post:</span>
           <span aria-hidden="true">&laquo;</span>
-          {{page.previous.title}}
+          {{ page.previous.title }}
         </a>
       {% endif %}
     </div>
     <div class="post-nav-next">
       {% if page.next.url %}
-      {% assign next_post_title_array = page.next.title | split: " " %}
-      {% assign next_post_cape_length = next_post_title_array | size | minus: 1 %}
-      {% assign next_post_cape = page.next.title | truncatewords: next_post_cape_length, "" %}
-      {% assign next_post_spit = next_post_title_array | last %}
-      <a href="{{page.next.url}}">
-        <span class="unsighted">Next post:</span>
-        {{next_post_cape}}
-        <span style="white-space: nowrap;">
-        {{next_post_spit}}
-        <span aria-hidden="true">&raquo;</span>
-        </span>
-      </a>
+        {% assign next_post_title_array = page.next.title | split: ' ' %}
+        {% assign next_post_cape_length = next_post_title_array | size | minus: 1 %}
+        {% assign next_post_cape = page.next.title | truncatewords: next_post_cape_length, '' %}
+        {% assign next_post_spit = next_post_title_array | last %}
+        <a href="{{page.next.url}}">
+          <span class="unsighted">Next post:</span>
+          {{ next_post_cape }}
+          <span style="white-space: nowrap;">
+            {{ next_post_spit }}
+            <span aria-hidden="true">&raquo;</span>
+          </span>
+        </a>
       {% endif %}
     </div>
   </div>

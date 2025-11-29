@@ -3,6 +3,7 @@ title: Meric, Kerim, and Ivan presented their posters at the 17th Annual Lorne D
 date: 2023-06-01 07:59:00-0400
 inline: false
 ---
+
 Meric, Kerim, and Ivan presented their posters at the 17th Annual Lorne D. Sullivan Research Day, attracting many curious scientists! 🤓 PS: Ivan even had a booking in the virus room! 🦠✨
 
 <div class="row">

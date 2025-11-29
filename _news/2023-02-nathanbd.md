@@ -5,6 +5,7 @@ inline: false
 ---
 
 LackLab dinner at Tandoori Flame Surrey Delta. Of course, we had a small surprise for Nathan!
+
 <div class="row">
     <div class="col-8">
         {% include figure.liquid path="assets/img/surreydinner1.jpeg" class="img-fluid rounded z-depth-1 mx-auto d-block" width="100%" %}

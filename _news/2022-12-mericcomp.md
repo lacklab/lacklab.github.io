@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Meric for passing the comprehensive exam and advancing to PhD candidacy! 
+title: Congratulations to Meric for passing the comprehensive exam and advancing to PhD candidacy!
 date: 2022-12-22 07:59:00-0400
 inline: false
 ---

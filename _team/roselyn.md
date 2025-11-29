@@ -2,7 +2,7 @@
 name: Roselyn Ma
 position: undergrad
 avatar: roselyn.jpg
-mail: 
+mail:
 joined: 2024
 ---
 

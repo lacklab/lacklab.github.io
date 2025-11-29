@@ -1,45 +1,45 @@
 .list {
-    &-post-title {
-      margin-bottom: .25rem;
-  
-      a {
-        color: #333;
-  
-        &:hover,
-        &:focus {
-          text-decoration: none;
-        }
+  &-post-title {
+    margin-bottom: 0.25rem;
+
+    a {
+      color: #333;
+
+      &:hover,
+      &:focus {
+        text-decoration: none;
       }
     }
-    &-post-date {
-      margin-bottom: 1rem;
-      font-size: .75rem;
-      text-transform: uppercase;
-    }
   }
+  &-post-date {
+    margin-bottom: 1rem;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+  }
+}
 
 .people {
-margin: auto;
-text-align: center;
-margin-top: 0.75em;
+  margin: auto;
+  text-align: center;
+  margin-top: 0.75em;
 }
 
 .list-item-people {
-display: inline-block;
-padding-right: 1em;
+  display: inline-block;
+  padding-right: 1em;
 }
 
 .list-post-title img {
-margin-bottom: 0.75em;
-margin-top: 1.25em;
+  margin-bottom: 0.75em;
+  margin-top: 1.25em;
 }
 
 .profile-thumbnail {
-    object-fit: cover;
-    object-position: center top;
-    width: 250px;
-    height: 250px;
-  }
+  object-fit: cover;
+  object-position: center top;
+  width: 250px;
+  height: 250px;
+}
 
 .profile-image {
   width: 300px;
@@ -62,8 +62,8 @@ margin-top: 1.25em;
 
 .styled-table th,
 .styled-table td {
-    padding: 12px 12px;
-    font-size: 1.05em;
+  padding: 12px 12px;
+  font-size: 1.05em;
 }
 
 .styled-table tbody tr {

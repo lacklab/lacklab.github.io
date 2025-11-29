@@ -2,7 +2,7 @@
 name: Daniel Robinson
 position: undergrad
 avatar: daniel.jpg
-mail: 
+mail:
 joined: 2025
 ---
 

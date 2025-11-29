@@ -19,4 +19,3 @@ joined: 2011
     <br>
     See full CV <a href="../../assets/pdf/NL_academic_CV.pdf">here</a>
 </p>
-
