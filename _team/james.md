@@ -1,9 +1,12 @@
 ---
 name: James Wong
-position: undergrad
+position: alumni
 avatar: james.jpg
+old_role: Undergraduate Student
+new_role: MSc Student, Biochemistry, University of Toronto
 mail:
 joined: 2024
+left: 2025
 ---
 
 <p>

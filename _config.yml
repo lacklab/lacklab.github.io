@@ -119,6 +119,7 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
+  - news_archive/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile

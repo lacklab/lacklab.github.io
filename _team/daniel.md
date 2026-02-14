@@ -1,9 +1,12 @@
 ---
 name: Daniel Robinson
-position: undergrad
+position: alumni
 avatar: daniel.jpg
+old_role: Undergraduate Student
+new_role: Undergraduate Student, University of British Columbia
 mail:
 joined: 2025
+left: 2025
 ---
 
 <p>

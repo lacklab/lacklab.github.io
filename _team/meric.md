@@ -1,6 +1,6 @@
 ---
 name: Uğur Meriç Dikbaş
-position: phdstudent
+position: postdoc
 avatar: meric.jpg
 mail:
 joined: 2019

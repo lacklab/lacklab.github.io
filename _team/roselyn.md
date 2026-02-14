@@ -1,9 +1,12 @@
 ---
 name: Roselyn Ma
-position: undergrad
+position: alumni
 avatar: roselyn.jpg
+old_role: Undergraduate Student
+new_role: PharmD Student, University of British Columbia
 mail:
 joined: 2024
+left: 2025
 ---
 
 <p>

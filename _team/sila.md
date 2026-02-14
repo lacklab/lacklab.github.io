@@ -1,9 +1,12 @@
 ---
 name: Sıla Akdoğan
-position: phdstudent
+position: alumni
 avatar: sila.jpg
 mail: sakdogan22 at ku.edu.tr
+old_role: MSc Student
+new_role: Patent Examiner, European Patent Office
 joined: 2022
+left: 2025
 ---
 
 <p>
