@@ -424,6 +424,11 @@ ninja.data = [{
           description: "",
           section: "Team",handler: () => {
               window.location.href = "/team/hilal/";
+            },},{id: "team-isabelle",
+          title: 'Isabelle',
+          description: "",
+          section: "Team",handler: () => {
+              window.location.href = "/team/isabelle/";
             },},{id: "team-ivan",
           title: 'Ivan',
           description: "",
