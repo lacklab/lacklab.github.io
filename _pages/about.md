@@ -17,5 +17,5 @@ social: true # includes social icons at the bottom of the page
 </div>
 <br>
 <div style="text-align: center;">
-    We are always looking for motivated graduate students/postdocs. Join us <a href="positions">here</a> if you are interested! 
+    We are always looking for motivated graduate students/postdocs. Join us <a href="positions">here</a> if you are interested!
 </div>
