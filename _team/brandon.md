@@ -1,9 +1,12 @@
 ---
 name: Brandon James Fasy
-position: msstudent
+position: alumni
+old_role: MSc Student
+new_role: PhD Student, Department of Physics, Koc University
 avatar: brandon.jpg
 mail: bfasy23 at ku.edu.tr
 joined: 2023
+left: 2026
 ---
 
 <p>
