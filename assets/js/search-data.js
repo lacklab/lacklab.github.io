@@ -309,6 +309,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-08-coopendjr/";
+            },},{id: "news-kerim-is-awarded-cancer-research-society-s-doctoral-research-award",
+          title: 'Kerim is awarded Cancer Research Society’s Doctoral Research Award!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-08-kerimcrsdr/";
+            },},{id: "news-nathan-is-awarded-the-best-poster-presentation-in-at-the-pacrim-breast-and-prostate-cancer-meeting-in-darwin-australia",
+          title: 'Nathan is awarded the best poster presentation in at the PacRim Breast and...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-08-nathanpacrim/";
+            },},{id: "news-kerim-is-awarded-prostate-cancer-foundation-of-canada-s-grant-in-aid",
+          title: 'Kerim is awarded Prostate Cancer Foundation of Canada’s Grant-in-Aid!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-08-kerimpcf/";
             },},{id: "news-emir-visits-his-wet-lab-colleagues-in-vancouver",
           title: 'Emir visits his wet lab colleagues in Vancouver!',
           description: "",
@@ -344,11 +359,216 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-12-dinner/";
+            },},{id: "news-kerim-is-awarded-ubc-science-co-op-supervisor-recognition-award",
+          title: 'Kerim is awarded UBC Science Co-op Supervisor Recognition Award!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-12-kerimcoopaward/";
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-12-mericcellsymposia/";
             },},{id: "news-lack-lab-warmly-welcomes-mayuko-and-daniel-with-a-dinner-at-akbar-joojeh-persian-restaurant",
           title: 'Lack Lab warmly welcomes Mayuko and Daniel with a dinner at Akbar Joojeh...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-01-dinner/";
+            },},{id: "news-happy-birthday-olka-we-celebrated-olka-s-birthday-at-nonna-s-italian-street-food",
+          title: 'Happy birthday Olka! We celebrated Olka’s birthday at Nonna’s Italian Street Food!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-02-olkabd/";
+            },},{id: "news-bengul-s-paper-is-published-in-communications-biology",
+          title: 'Bengul’s paper is published in Communications Biology!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-02-bengulpaper/";
+            },},{id: "news-hatice-kibar-joined-our-istanbul-lab-as-a-bioinformatics-ph-d-student-welcome-hatice",
+          title: 'Hatice Kibar joined our Istanbul lab as a bioinformatics Ph.D. student. Welcome Hatice!...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-02-hatice/";
+            },},{id: "news-kerim-won-the-people-s-choice-award-in-the-vchri-heat-of-the-ubc-3-minute-thesis-competition",
+          title: 'Kerim won the People’s Choice Award in the VCHRI Heat of the UBC...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-02-kerim3mt/";
+            },},{id: "news-berkay-gave-a-talk-at-big25-research-day",
+          title: 'Berkay gave a talk at BIG25 Research Day!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-03-berkaybigg/";
+            },},{id: "news-happy-birthday-berkay-and-james-we-celebrated-their-birthdays-at-salsa-amp-agave-mexican-grill",
+          title: 'Happy birthday Berkay and James! We celebrated their birthdays at Salsa &amp;amp; Agave...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-03-berkayjamesbd/";
+            },},{id: "news-rosie-and-james-presented-their-posters-for-their-honor-s-theses",
+          title: 'Rosie and James presented their posters for their Honor’s Theses!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-03-rosiejamesposter/";
+            },},{id: "news-happy-birthday-kerim-aarush-preeti-dogancan-shabnam-and-funda-we-held-the-april-birthday-bash-with-a-big-gathering-at-the-ubc-campus",
+          title: 'Happy birthday Kerim, Aarush, Preeti, Dogancan, Shabnam, and Funda! We held the April...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-04-aprilbdbash/";
+            },},{id: "news-rosie-and-james-graduated",
+          title: 'Rosie and James graduated!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-05-rosiejamesgrad/";
+            },},{id: "news-lack-lab-presented-at-the-19th-lorne-d-sullivan-research-day",
+          title: 'Lack Lab presented at the 19th Lorne D. Sullivan Research Day!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-06-lornedsullivan/";
+            },},{id: "news-nathan-is-awarded-research-teaching-award-for-excellence-in-basic-science",
+          title: 'Nathan is awarded Research teaching award for Excellence in Basic Science!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-06-nathanaward/";
+            },},{id: "news-kerim-is-awarded-the-vchri-rising-star-award",
+          title: 'Kerim is awarded the VCHRI Rising Star Award!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-06-kerimvchrirs/";
+            },},{id: "news-kerim-and-nathan-attended-the-embo-workshop-on-enhancer-mechanics-and-enhanceropathies-in-middelfart-denmark",
+          title: 'Kerim and Nathan attended the EMBO Workshop on Enhancer Mechanics and Enhanceropathies in...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-06-emboworkshop/";
+            },},{id: "news-sila-graduated-congratulations-on-a-wonderful-master-s-thesis-defence-and-best-of-luck-in-your-future-endeavours-sila",
+          title: 'Sila graduated! Congratulations on a wonderful Master’s thesis defence and best of luck...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-07-silagrad/";
+            },},{id: "news-berkay-is-awarded-cancer-research-society-s-doctoral-research-award",
+          title: 'Berkay is awarded Cancer Research Society’s Doctoral Research Award!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-07-berkaycrs/";
+            },},{id: "news-our-lab-is-awarded-the-cihr-project-grant",
+          title: 'Our lab is awarded the CIHR Project Grant!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-07-cihr/";
+            },},{id: "news-kerim-s-review-paper-is-published-in-bioscience-reports",
+          title: 'Kerim’s review paper is published in Bioscience Reports!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-08-kerimreview/";
+            },},{id: "news-daniel-completed-his-co-op-term-with-us",
+          title: 'Daniel completed his co-op term with us!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-08-danielfarewell/";
+            },},{id: "news-happy-birthday-rosie-flora-daniel-tunc-jane-meric-and-aaira-we-held-the-september-birthday-bash-with-a-big-dinner-at-dosanko-restaurant",
+          title: 'Happy Birthday Rosie, Flora, Daniel, Tunc, Jane, Meric and Aaira! We held the...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-09-septbdbash/";
+            },},{id: "news-meric-graduated-congratulations-on-a-wonderful-ph-d-thesis-defence-and-a-very-well-deserved-ph-d-degree",
+          title: 'Meric Graduated! Congratulations on a wonderful Ph.D. thesis defence and a very well...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-09-mericgrad/";
+            },},{id: "news-emir-joined-our-vancouver-lab-to-get-his-hands-wet",
+          title: 'Emir joined our Vancouver Lab to get his hands wet!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-emirvancouver/";
+            },},{id: "news-meric-and-meltem-got-married-we-gathered-for-a-breakfast-in-vancouver-to-watch-the-live-stream-of-their-wedding-in-turkey-all-the-best-in-your-shared-future-meric-and-meltem",
+          title: 'Meric and Meltem got Married! We gathered for a breakfast in Vancouver to...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-mericandmeltem/";
+            },},{id: "news-happy-birthday-ivan-we-celebrated-ivan-s-birthday-at-miso-taco",
+          title: 'Happy Birthday Ivan! We celebrated Ivan’s birthday at Miso Taco!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-ivanbd/";
+            },},{id: "news-kenan-sevinc-joined-our-istanbul-lab-as-a-postdoctoral-researcher-welcome-kenan",
+          title: 'Kenan Sevinc joined our Istanbul lab as a postdoctoral researcher. Welcome Kenan!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-11-kenan/";
+            },},{id: "news-we-had-a-lab-dinner-at-mongo-bongo-mongolian-grill",
+          title: 'We had a lab dinner at Mongo Bongo Mongolian Grill!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-11-mongobongo/";
+            },},{id: "news-betul-and-shreyas-paper-is-published-in-pnas",
+          title: 'Betul and Shreyas’ paper is published in PNAS!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-12-pnashobx13/";
+            },},{id: "news-olka-was-selected-for-the-falling-walls-female-science-talents-intensive-track-2026",
+          title: 'Olka was selected for the Falling Walls Female Science Talents Intensive Track 2026!...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-12-olkafallingwalls/";
+            },},{id: "news-we-had-our-annual-end-of-the-year-gathering-to-celebrate-the-hard-work-throughout-the-year-and-also-the-newlyweds-meric-and-meltem",
+          title: 'We had our annual end of the year gathering to celebrate the hard...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-12-christmasparty/";
+            },},{id: "news-isabelle-hwang-joined-our-vancouver-lab-as-a-co-op-student-welcome-isabelle",
+          title: 'Isabelle Hwang joined our Vancouver lab as a co-op student! Welcome Isabelle!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-01-isabelle/";
+            },},{id: "news-berkay-presented-at-vpc-terry-fox-seminar-series",
+          title: 'Berkay presented at VPC Terry Fox Seminar Series!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-01-berkayterryfox/";
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-01-ivanaacr/";
+            },},{id: "news-our-lab-is-awarded-the-tübi̇tak-1001-research-grant",
+          title: 'Our lab is awarded the TÜBİTAK 1001 research grant!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-01-tubitak1001/";
+            },},{id: "news-berkay-presented-at-vpc-terry-fox-seminar-series",
+          title: 'Berkay presented at VPC Terry Fox Seminar Series!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-02-ivanterryfox/";
+            },},{id: "news-happy-birthday-olka-and-nathan-we-celebrated-their-birthday-at-our-lab-favourite-restaurant-akbarjoojeh-19th",
+          title: 'Happy birthday Olka and Nathan! We celebrated their birthday at our lab favourite...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-02-olkanathanbd/";
+            },},{id: "news-brandon-graduated-congratulations-and-best-of-luck-in-your-future-endeavours-brandon",
+          title: 'Brandon graduated! Congratulations and best of luck in your future endeavours Brandon!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-brandongrad/";
+            },},{id: "news-olka-is-awarded-mitacs-accelerate-functionally-characterizing-enhancers-in-neuroendocrine-prostate-cancer",
+          title: 'Olka is awarded Mitacs Accelerate Functionally Characterizing Enhancers in Neuroendocrine Prostate Cancer!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-olkamitacs/";
+            },},{id: "news-happy-birthday-isabelle-and-berkay-we-celebrated-their-birthday-at-zab-zaab-thai-cuisine",
+          title: 'Happy birthday Isabelle and Berkay! We celebrated their birthday at Zab Zaab Thai...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-isabelleberkaybd/";
+            },},{id: "news-emir-presented-at-the-vpc-terry-fox-seminar-series",
+          title: 'Emir presented at the VPC Terry Fox Seminar Series!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-emirterryfox/";
+            },},{id: "news-meric-presented-at-the-vpc-terry-fox-seminar-series",
+          title: 'Meric presented at the VPC Terry Fox Seminar Series!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-mericterryfox/";
             },},{id: "team-bengul",
           title: 'Bengul',
           description: "",
@@ -419,6 +639,11 @@ ninja.data = [{
           description: "",
           section: "Team",handler: () => {
               window.location.href = "/team/gizemhazal/";
+            },},{id: "team-hatice",
+          title: 'Hatice',
+          description: "",
+          section: "Team",handler: () => {
+              window.location.href = "/team/hatice/";
             },},{id: "team-hilal",
           title: 'Hilal',
           description: "",
@@ -439,6 +664,11 @@ ninja.data = [{
           description: "",
           section: "Team",handler: () => {
               window.location.href = "/team/james/";
+            },},{id: "team-kenan",
+          title: 'Kenan',
+          description: "",
+          section: "Team",handler: () => {
+              window.location.href = "/team/kenan/";
             },},{id: "team-kerim",
           title: 'Kerim',
           description: "",
