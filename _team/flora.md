@@ -1,5 +1,5 @@
 ---
-name: Flora Huang, PhD
+name: Flora Huang
 position: researchasst
 avatar: flora.png
 mail: fhuang at prostatecentre.com
